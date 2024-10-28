@@ -215,5 +215,4 @@ response2[0]
 **TODO** Remember to provide a screenshot of the deployed active endpoint in Sagemaker.
 ![deployed model](training_model_images/model_endpoint.png)
 
-## Standout Suggestions
-**TODO (Optional):** This is where you can provide information about any standout suggestions that you have attempted.
+
