@@ -212,7 +212,5 @@ response2[0]
 ```
 
 
-**TODO** Remember to provide a screenshot of the deployed active endpoint in Sagemaker.
-![deployed model](training_model_images/model_endpoint.png)
 
 
